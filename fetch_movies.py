@@ -3,7 +3,7 @@ import json
 import os
 from tqdm import tqdm
 
-API_KEY = "3f839dcd0063c880932d78d186b74325"
+API_KEY = "YOUR_TMDB_API_KEY"
 BASE_URL = "https://api.themoviedb.org/3"
 
 OUTPUT_FILE = "data/movies_series_10k.json"
